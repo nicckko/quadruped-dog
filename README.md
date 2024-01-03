@@ -5,6 +5,10 @@ Work-in-progress Quadruped Robot
 
 Since I could remember, I have always wanted my dog to have another dog to play with. I realized that if I could not force my parents to buy one, why couldn't I just make one? This repo serves as not just my files for my robot, but also as a log as I continue to work on this robot. As of today, I have built a working leg prototype, yet the code is not there yet...
 
+![robot render 1](https://github.com/nicckko/quadruped-dog/assets/109701332/6ae72708-bed5-4252-bbf3-ab66df5ebeb8)
+
+![robot render 3](https://github.com/nicckko/quadruped-dog/assets/109701332/3b947949-547d-4c1e-ae6e-3f22a45aac66)
+
 ### Preparing the operation system
 
 To run the servos and machine learning of the robot, an 8gb Raspberry Pi 5 will be used with Docker and Kubernetes. First, the operating system needs to be prepared. Install the most recent version of Ubuntu Server for the Raspberry Pi that you are using. Make sure to enable ssh. When that is done, plug in the SD card to your Pi and wait for it to boot. From there, follow this code:
