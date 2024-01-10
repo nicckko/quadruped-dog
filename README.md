@@ -1,9 +1,9 @@
-# QUADRUPED ROBOT
+# QUADRUPED ROBOT -- UNFINISHED
 Work-in-progress Quadruped Robot
 
 ## January 2nd, 2024:
 
-Since I could remember, I have always wanted my dog to have another dog to play with. I realized that if I could not force my parents to buy one, why couldn't I just make one? This repo serves as not just my files for my robot, but also as a log as I continue to work on this robot. As of today, I have built a working leg prototype, yet the code is not there yet...
+Have you ever wanted to build a robotic dog? Ight bet. This repo acts as a log and build guide for it.
 
 ![robot render 1](https://github.com/nicckko/quadruped-dog/assets/109701332/6ae72708-bed5-4252-bbf3-ab66df5ebeb8)
 
