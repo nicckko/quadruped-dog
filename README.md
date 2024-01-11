@@ -38,4 +38,4 @@ python3.10 -m pip install pylx16a;
 
 Once that is done, you should have a working install of Ubuntu Linux with Python 3.10 and PyLX16A installed. PyLX16A is the updated Python module/library to control the LX16A servos. Docker and Kubernetes will be installed after the robot is fully assembled and working as it is only necessary for machine learning and using more than one Pi.
 
-ERROR WHEN DOING PYTHON3.10 -M PIP INSTALL PYLX16A NEVER INSTALLED !!
+ERROR WHEN DOING PYTHON3.10 -M PIP INSTALL PYLX16A NEVER INSTALLED
